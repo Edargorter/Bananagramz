@@ -1,0 +1,15 @@
+
+ 
+ BBBBB
+B     B
+B      B
+ BBBBB
+ B    B    aaaa   n nnn   aaaa   n nnn    aaaa    ggg  r rr    aaaa    m m m m zzzzzz
+ B     B  a    a  nn   n a    a  nn   n  a    a  g   g rr  r  a    a   mm m mm   zz
+  B     B a    a  n    n a    a  n    n  a    a  g   g r      a    a   m  m  m  z
+   BBBBB   aaaa a n    n  aaaa a n    n   aaaa a  ggg  r       aaaa a  m     m zzzzzz
+                                                     g
+                                                     g
+                                                  ggg
+
+			™Zachary Bowditch (Edargorter) (2017)
